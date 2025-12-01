@@ -39,7 +39,7 @@ header:
 #      filename: 'logo.svg'
     button:
       enable: true
-      text: 'Registos'
+      text: 'Registo Disponível'
       url: '#pretix'
     show_search: false
     show_theme_chooser: false
