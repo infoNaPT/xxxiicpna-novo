@@ -71,7 +71,7 @@ sections:
         
         #### Local da convenção: 
 
-        **Centro de Exposições de Arcos de Valdevez**
+        Centro de Exposições de Arcos de Valdevez
         
         <iframe style="width: 100%; height: 300px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2972.791338514605!2d-8.422715342080695!3d41.8327910879938!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd25096a2fde2c77%3A0x91ef5fa9ca6d04f0!2sParque%20de%20Exposi%C3%A7%C3%B5es%20de%20Arcos%20de%20Valdevez!5e0!3m2!1spt-PT!2spt!4v1764985164851!5m2!1spt-PT!2spt" style="border:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         
