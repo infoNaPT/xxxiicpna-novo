@@ -2,47 +2,65 @@
 title: 'XXXII CPNA 29, 30 and 31 May 2026 - UM DIA DE CADA VEZ ARCOS DE VALDEVEZ'
 date: 2023-10-24
 type: landing
-draft: true
+draft: false
 
 design:
   ## Default section spacing
   spacing: "6rem"
 
 sections:
-  - block: hero
+###   - block: hero
+###     content:
+###       title: 
+###       text: 
+### #      primary_action:
+### #        text: Get Started
+### #        url: https://hugoblox.com/templates/
+### #        icon: rocket-launch
+### #      secondary_action:
+### #        text: Read the docs
+### #        url: https://docs.hugoblox.com
+### #      announcement:
+### #        text: "Announcing the release of version 1."
+### #        link:
+### #          text: "Read more"
+### #          url: "/blog/"
+###     design:
+###       spacing:
+###         padding: [0, 0, 40%, 0]
+###         margin: [0, 0, 0, 0]
+###       # For full-screen, add `min-h-screen` below
+### #      css_class: "dark"
+###       background:
+### #        color: "navy"
+### #        image:
+### #          # Add your image background to `assets/media/`.
+### #          filename: bg-triangles.svg
+### #          filters:
+### #            brightness: 0.5
+### #          size: cover
+### #          position: center
+### #          parallax: false
+###         video:
+###           filename: xxxiicpna-arcos-small.mp4
+
+  - block: markdown
+    id: hino
     content:
-      title: 
-      text: 
-#      primary_action:
-#        text: Get Started
-#        url: https://hugoblox.com/templates/
-#        icon: rocket-launch
-#      secondary_action:
-#        text: Read the docs
-#        url: https://docs.hugoblox.com
-#      announcement:
-#        text: "Announcing the release of version 1."
-#        link:
-#          text: "Read more"
-#          url: "/blog/"
+      title: ""
+      subtitle: ""
+      text: |
+        <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/fbBOkjA6AZ8?si=blV8l2f7UVw7fKOp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
     design:
-      spacing:
-        padding: [0, 0, 40%, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-#      css_class: "dark"
+      columns: "1"
       background:
-#        color: "navy"
-#        image:
-#          # Add your image background to `assets/media/`.
-#          filename: bg-triangles.svg
-#          filters:
-#            brightness: 0.5
-#          size: cover
-#          position: center
-#          parallax: false
-        video:
-          filename: xxxiicpna-arcos-small.mp4
+        color: "#323232"
+      spacing:
+        padding: [0px, 0px, 0px, 0px]
+        margin: [0px, 0px, 0px, 0px]
+
+
+
   - block: markdown
     id: cartaz
     content:
@@ -82,23 +100,23 @@ sections:
 
         #### Menu das Refeições 
 
-        |                | Sáb Almoço                         | Sáb Jantar                       | Dom Almoço                           |
-        |---             |---                                 |---                               |---                                   |
-        |   *Sopa*       | **Sopa de Legumes**                |*Creme de cenoura*                |**Sopa de feijão verde**              |
-        |  *Carne*       | **Panado com arroz de feijão**     |*Massa à Bolonhesa*               |**Massa à Lavrador**                  |
-        |  *Peixe*       | **Pataniscas com arroz de feijão** | *Frigideira cremosa de bacalhau* |**Filetes com arroz seco de legumes** |
-        |  *Vegetariano* | **Empadão de legumes**             | *Quiche de legumes*              | **Massa de legumes**                 |
-        | *Sobremesa*    | **Fruta da época**                 |*Fruta da época*                  | **Fruta da época**                   |
-        | *Bebida*       | **Água**                           |*Água*                            |**Água**                              |
+        |                | Sat, Lunch                         | Sat, Dinner           | Sun, Lunch                          |
+        |---             |---                                 |---                    |---                                  |
+        |   *Soup*       | **Vegetable soup**                 |*Carrot soup*          |**Green bean soup**                  |
+        |  *Meat*        | **Schnitzel with bean rice**       |*Pasta Bolognese*      |**Farmers' pasta**                   |
+        |  *Fish*        | **Fried cod cakes with bean rice** | *Creamy cod frittata* |**Hake fillets with vegetable rice** |
+        |  *Vegetarian*  | **Vegetable pie**                  | *Vegetable quiche*    | **Vegetable pasta**                 |
+        | *Dessert*      | **Seasonal fruit**                 |*Seasonal fruit*       | **Seasonal fruit**                  |
+        | *Drink*        | **Water**                          |*Water*                |**Water**                            |
 
         
         --------------------------
         
-        *O teu pré-registo segue por e-mail com possibilidade de poderes alterar as opções do teu pedido para as refeições e t-shirt exclusiva (é segredo, só na convenção é que saberás o desenho).*
+        *Your pre-registration will be sent by email, with the option to change your meal choices and exclusive T-shirt (it's a secret, you'll only find out the design at the convention).*
         
-        *Para qualquer dúvida, contacta diretamente esta Comissão Organizadora da Convenção através dos contactos indicados no e-mail de confirmação de pedido de pré-registo.* 
+        *If you have any questions, please contact the Convention Organizing Committee directly using the contact details provided in the pre-registration confirmation email.* 
         
-        **Um dia de cada vez**
+        **One day at a time**
     design:
       columns: "1"
       background:
