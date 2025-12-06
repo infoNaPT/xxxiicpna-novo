@@ -24,3 +24,16 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+
+#info > div.flex.flex-col.items-center.max-w-prose.mx-auto.gap-3.justify-center.px-6 {
+    max-width: max-content;
+}
+
+#info {
+    padding-bottom: 0px;
+}
+
+#pretix {
+    padding-top: 1em;
+    padding-bottom: 2em;
+}

@@ -57,6 +57,51 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
 
+  - block: markdown
+    id: info
+    content:
+      title: "Informações"
+      subtitle: ""
+      text: |
+        > Podem adquirir a vossa t-shirt exclusiva, selecionado o tamanho e modelo para Homem ou Mulher.
+        
+        > Podem ainda adquirir o almoço de sábado, o jantar de sábado e o almoço de domingo, servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 30.04.2026)
+        
+        > Alojamentos disponíveis em Arcos de Valdevez e Ponte da Barca: hotéis, pensões, alojamento local e turismo em espaço rural.
+        
+        #### Local da convenção: 
+
+        |Centro de Exposições de Arcos de Valdevez |
+        |--- |
+        |  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2972.791338514605!2d-8.422715342080695!3d41.8327910879938!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd25096a2fde2c77%3A0x91ef5fa9ca6d04f0!2sParque%20de%20Exposi%C3%A7%C3%B5es%20de%20Arcos%20de%20Valdevez!5e0!3m2!1spt-PT!2spt!4v1764985164851!5m2!1spt-PT!2spt" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   |
+        
+        
+
+        --------------------------
+
+        #### Menu das Refeições 
+
+        |                | Sáb Almoço                         | Sáb Jantar                       | Dom Almoço                           |
+        |---             |---                                 |---                               |---                                   |
+        |   *Sopa*       | **Sopa de Legumes**                |*Creme de cenoura*                |**Sopa de feijão verde**              |
+        |  *Carne*       | **Panado com arroz de feijão**     |*Massa à Bolonhesa*               |**Massa à Lavrador**                  |
+        |  *Peixe*       | **Pataniscas com arroz de feijão** | *Frigideira cremosa de bacalhau* |**Filetes com arroz seco de legumes** |
+        |  *Vegetariano* | **Empadão de legumes**             | *Quiche de legumes*              | **Massa de legumes**                 |
+        | *Sobremesa*    | **Fruta da época**                 |*Fruta da época*                  | **Fruta da época**                   |
+        | *Bebida*       | **Água**                           |*Água*                            |**Água**                              |
+
+        
+        --------------------------
+        
+        *O teu pré-registo segue por e-mail com possibilidade de poderes alterar as opções do teu pedido para as refeições e t-shirt exclusiva (é segredo, só na convenção é que saberás o desenho).*
+        
+        *Para qualquer dúvida, contacta diretamente esta Comissão Organizadora da Convenção através dos contactos indicados no e-mail de confirmação de pedido de pré-registo.* 
+        
+        **Um dia de cada vez**
+    design:
+      columns: "1"
+      background:
+        color: "#17191A"
 
   - block: markdown
     id: pretix
@@ -68,7 +113,7 @@ sections:
     design:
       columns: "1"
       background:
-        color: "#323232"
+        color: "#17191A"
 
 ##
   ###  - block: stats
