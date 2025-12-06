@@ -8,41 +8,58 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+###  - block: hero
+###      content:
+###            title: 
+###                  text: 
+###                  #      primary_action:
+###                  #        text: Get Started
+###                  #        url: https://hugoblox.com/templates/
+###                  #        icon: rocket-launch
+###                  #      secondary_action:
+###                  #        text: Read the docs
+###                  #        url: https://docs.hugoblox.com
+###                  #      announcement:
+###                  #        text: "Announcing the release of version 1."
+###                  #        link:
+###                  #          text: "Read more"
+###                  #          url: "/blog/"
+###                      design:
+###                            spacing:
+###                                    padding: [0, 0, 40%, 0]
+###                                            margin: [0, 0, 0, 0]
+###                                                  # For full-screen, add `min-h-screen` below
+###                                                  #      css_class: "dark"
+###                                                        background:
+###                                                        #        color: "navy"
+###                                                        #        image:
+###                                                        #          # Add your image background to `assets/media/`.
+###                                                        #          filename: bg-triangles.svg
+###                                                        #          filters:
+###                                                        #            brightness: 0.5
+###                                                        #          size: cover
+###                                                        #          position: center
+###                                                        #          parallax: false
+###                                                                video:
+###                                                                          ### filename: xxxiicpna-arcos-small.mp4
+###                                                                                    filename: hino-best.webm
+
+  - block: markdown
+    id: hino
     content:
-      title: 
-      text: 
-#      primary_action:
-#        text: Get Started
-#        url: https://hugoblox.com/templates/
-#        icon: rocket-launch
-#      secondary_action:
-#        text: Read the docs
-#        url: https://docs.hugoblox.com
-#      announcement:
-#        text: "Announcing the release of version 1."
-#        link:
-#          text: "Read more"
-#          url: "/blog/"
+      title: ""
+      subtitle: ""
+      text: |
+        <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/fbBOkjA6AZ8?si=blV8l2f7UVw7fKOp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
     design:
-      spacing:
-        padding: [0, 0, 40%, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-#      css_class: "dark"
+      columns: "1"
       background:
-#        color: "navy"
-#        image:
-#          # Add your image background to `assets/media/`.
-#          filename: bg-triangles.svg
-#          filters:
-#            brightness: 0.5
-#          size: cover
-#          position: center
-#          parallax: false
-        video:
-          ### filename: xxxiicpna-arcos-small.mp4
-          filename: hino-best.webm
+        color: "#323232"
+      spacing:
+        padding: [0px, 0px, 0px, 0px]
+        margin: [0px, 0px, 0px, 0px]
+
+
   - block: markdown
     id: cartaz
     content:
