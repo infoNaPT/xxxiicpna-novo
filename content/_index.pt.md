@@ -83,7 +83,7 @@ sections:
       text: |
         > Podem adquirir a vossa t-shirt exclusiva, selecionado o tamanho e modelo para Homem ou Mulher.
         
-        > Podem ainda adquirir o almoço de sábado, o jantar de sábado e o almoço de domingo, servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 30.04.2026)
+        > Podem ainda adquirir o almoço de sábado, o jantar de sábado e o almoço de domingo, servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 10.05.2026)
         
         > Alojamentos disponíveis em Arcos de Valdevez e Ponte da Barca: hotéis, pensões, alojamento local e turismo em espaço rural.
         

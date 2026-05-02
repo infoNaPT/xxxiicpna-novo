@@ -84,7 +84,7 @@ sections:
       text: |
         > You can purchase your exclusive T-shirt, selecting the size and model for Men or Women.
         
-        > You can also purchase Saturday lunch, Saturday dinner, and Sunday lunch, served at the convention venue. (only available for purchase during the pre-registration period until April 30, 2026)
+        > You can also purchase Saturday lunch, Saturday dinner, and Sunday lunch, served at the convention venue. (only available for purchase during the pre-registration period until May 10, 2026)
         
         > Accommodation available in Arcos de Valdevez and Ponte da Barca: hotels, guesthouses, local accommodation, and rural tourism.
         

@@ -84,7 +84,7 @@ sections:
       text: |
         > Puedes adquirir tu camiseta exclusiva, seleccionando la talla y el modelo para hombre o mujer.
         
-        > También puedes adquirir el almuerzo del sábado, la cena del sábado y el almuerzo del domingo, que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 30.04.2026)
+        > También puedes adquirir el almuerzo del sábado, la cena del sábado y el almuerzo del domingo, que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 10.05.2026)
         
         > Alojamientos disponibles en Arcos de Valdevez y Ponte da Barca: hoteles, pensiones, alojamientos locales y turismo rural.
         
