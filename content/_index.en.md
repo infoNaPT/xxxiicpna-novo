@@ -146,6 +146,18 @@ sections:
       background:
         color: "#17191A"
 
+  - block: markdown
+    id: pretix
+    content:
+      title: "ONLY FOR THOSE WHO ARE NOT ATTENDING THE CONVENTION AND WISH TO WATCH ON ZOOM"
+      subtitle: ""
+      text: |
+        <script type="text/javascript" src="https://registos.na-pt.org/widget/v2.en.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/cpna26/" categories="24"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/cpna26/">click here</a>.</div></div></noscript>    
+    design:
+      columns: "1"
+      background:
+        color: "#17191A"
+
 
 ##
   ###  - block: stats
