@@ -134,14 +134,6 @@ sections:
       background:
         color: "#17191A"
 
-  - block: cta-button-list
-    content:
-      buttons:
-        - text: SOLO PARA AQUELLOS QUE NO ASISTEN A LA CONVENCIÓN Y DESEAN VERLA POR ZOOM 
-          url: #pretix-zoom
-          icon: brands/zoom
-
-
   - block: markdown
     id: pretix
     content:
@@ -155,7 +147,7 @@ sections:
         color: "#17191A"
 
   - block: markdown
-    id: pretix-zoom
+    id: pretix
     content:
       title: "SOLO PARA AQUELLOS QUE NO ASISTEN A LA CONVENCIÓN Y DESEAN VERLA POR ZOOM"
       subtitle: ""
